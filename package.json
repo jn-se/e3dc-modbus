@@ -4,12 +4,11 @@
   "description": "A lightweight Node.js library to connect to E3DC devices using Modbus protocol.",
   "homepage": "https://github.com/jn-se/e3dc-modbus",
   "keywords": [
-    "node-red",
     "e3dc",
     "s10",
     "modbus"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "author": {
     "name": "Jan Söhlke",
     "url": "https://github.com/jn-se"
