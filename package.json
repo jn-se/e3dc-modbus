@@ -17,6 +17,8 @@
     "type": "git",
     "url": "https://github.com/jn-se/e3dc-modbus.git"
   },
+  "main": "dist/lib/e3dc-modbus.js",
+  "types": "dist/lib/e3dc-modbus.d.ts",
   "engines": {
     "node": ">=14"
   },
@@ -30,7 +32,7 @@
     "preversion" : "npm run lint"
   },
   "files": [
-    "lib/**/*"
+    "dist"
   ],
   "dependencies": {
     "modbus-serial": "^8.0.10"
