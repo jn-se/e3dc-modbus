@@ -1,6 +1,6 @@
 {
   "name": "@jn-se/e3dc-modbus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight Node.js library to connect to E3DC devices using Modbus protocol.",
   "homepage": "https://github.com/jn-se/e3dc-modbus",
   "keywords": [
