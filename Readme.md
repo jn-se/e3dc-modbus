@@ -1,6 +1,12 @@
-# e3dc-mobus
+# e3dc-modbus
 
 A lightweight Node.js library to connect to E3DC devices using the Modbus protocol.
+
+# Installation
+
+Install the module `e3dc-modbus` via npm:
+
+    npm install @jns-se/e3dc-modbus
 
 # Example
 
@@ -25,12 +31,6 @@ e3dc.connect(ipAddress, connectionOptions).then((connection) => {
     console.log(error.message)
 })
 ```
-# Installation
-
-Install the module `e3dc-modbus` via npm:
-
-    npm install @jns-se/e3dc-modbus
-
 
 # External Documentation
 
